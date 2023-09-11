@@ -10,7 +10,7 @@ Nesse projeto foi automatizado a provisão de um site em uma instancia EC2 (AWS)
 
 ![image](https://github.com/AldrigeJunior/Terrafrom-AWS-DOCKER/assets/133812087/f674736b-31a5-4aec-8c70-38a98859de0b)
 
-![image](https://github.com/AldrigeJunior/Terrafrom-AWS-DOCKER/assets/133812087/d25ba3b1-31ee-48f4-9a58-04d730a7d7db)
+![image](https://github.com/AldrigeJunior/Terrafrom-AWS-DOCKER/assets/133812087/3cf4b574-eee3-4501-9278-36b9190f630b)
 
 
 Site rodando no IP informado: 
